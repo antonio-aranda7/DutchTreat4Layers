@@ -1,0 +1,21 @@
+{
+  "Colors": {
+    "Favorite": "blue"
+  },
+  "DisableSSL": false,
+  "ConnectionStrings": {
+    "DutchConnectionString": "Data Source=(localdb)\\ProjectsV13;Initial Catalog=DutchtreatDb;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true;"
+    //"Server=tcp:egk-dutch-treat-db-server.database.windows.net,1433;Database=DutchTreatDb;Persist Security Info=False;User ID=egk-dutch-treat-admin;Password=D1u2T3c4H;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "asasdf;njhiujks;asdfoiwu;asdfdsfj;",
+    "Issuer": "localhost",
+    "Audience":  "dutchtreat.com"
+  }
+}
